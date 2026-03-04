@@ -1,0 +1,8 @@
+﻿<RunSettings>
+	<Playwright>
+		<BrowserName>chromium</BrowserName>
+			<LaunchOptions>
+				<Headless>false</Headless>
+			</LaunchOptions>
+	</Playwright>
+</RunSettings>
